@@ -23,7 +23,7 @@
 |---------|-------------|------|
 | [📊 Telecom Churn Analysis](https://github.com/Suryavanshii/telecom-churn-analysis) | Predicted churn & suggested retention strategies | Python, Pandas, ML |
 | [📈 Sales Data Analysis](https://github.com/Suryavanshii/sales-data-analysis) | Identified sales trends & dashboards in Power BI | Power BI, Excel |
-| [🤖 Speculative Decoding](https://github.com/Suryavanshii/speculative_decoding) | Optimized LLM inference using PyTorch | PyTorch, Deep Learning |
+| [🤖 Automatic Emailing aagent](https://automatic-emailing-agent.onrender.com/) | Automatic Emailing Agent with Python for bulk mail delivery | Python, Render |
 | [📚 awesome-genai](https://github.com/Suryavanshii/awesome-genai) | Curated Generative AI resources | Markdown, Open Source |
 | [🛠 OpenOmni](https://github.com/Suryavanshii/OpenOmni) | Contributed to AI/ML development | Open Source |
 
