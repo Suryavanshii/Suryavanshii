@@ -3,8 +3,8 @@
 🎓 Final-year B.Tech CSE | 🤖 Aspiring Data Scientist | 📍 Indore, India  
 
 💡 I enjoy extracting insights from data, building ML models, and creating solutions that impact real life.  
-🌱 Currently exploring *Recommendation Systems, Time-Series Forecasting & Predictive Modeling*.  
-🎯 Goal: Become a Data Scientist + MBA abroad (Full Scholarship).  
+🌱 Currently exploring *Automations, AIML, Recommendation Systems, Time-Series Forecasting & Predictive Modeling*.  
+🎯 Goal: Become a Data Scientist.  
 
 ---
 
