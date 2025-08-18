@@ -34,7 +34,7 @@
 - 🏥 *Disease Prediction using ML* (Diabetes & Heart Disease)  
 - 🎥 *Movie Recommendation System* (Hybrid filtering)  
 - 📉 *Stock Market Trend Prediction* (Time-series ML)  
-
+- Automation using N8N
 ---
 
 ## 📊 GitHub Analytics  
